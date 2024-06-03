@@ -3,8 +3,7 @@
 Este proyecto es un sistema en Java que permite a los inversores suscribirse a acciones y recibir notificaciones en tiempo real cuando el precio de las mismas cambia.
 
 ## Instalación
-git@github.com:DeyvidA/pam-pratica01.git
-1. Clona el repositorio: `git clone git@github.com:DeyvidA/pam-pratica01.git` (si estás utilizando SSH) o `git clone https://github.com/DeyvidA/pam-pratica01.git` (en caso de utilizar HTTPS)
+1. Clona el repositorio: `git clone git@github.com:DeyvidA/pam-pratica01.git` (En caso de utilizar SSH) o `git clone https://github.com/DeyvidA/pam-pratica01.git` (en caso de utilizar HTTPS)
 2. Cambia a la carpeta del proyecto: `cd tu-repositorio`
 3. Compila el proyecto: `javac Main.java`
 4. Ejecuta el proyecto: `java Main`
